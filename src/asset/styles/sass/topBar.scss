@@ -1,0 +1,24 @@
+.topBar__background {
+  background-color: rgb(70, 75, 80);
+  width: 100%;
+  height: 100%;
+  color: whitesmoke;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.topBar__container {
+  width: 50%;
+  height: 100%;
+  color: whitesmoke;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.topBar__text {
+  font-size: small;
+}
+.topBar__link a {
+  color: grey;
+  font-size: small;
+}
